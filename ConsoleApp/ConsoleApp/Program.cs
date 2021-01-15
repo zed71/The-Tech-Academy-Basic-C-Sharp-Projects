@@ -10,57 +10,57 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            // *PART 1*
-            // Create a 1-dimensional string[]
-            string[] weekDays = { "Sunday' - ", "Monday - ", "Tuesday - ", "Wednesay - ", "Thursday - ", "Friday - ", "Saturday - " };
+            //// *PART 1*
+            //// Create a 1-dimensional string[]
+            //string[] weekDays = { "Sunday' - ", "Monday - ", "Tuesday - ", "Wednesay - ", "Thursday - ", "Friday - ", "Saturday - " };
 
-            // Create a loop that iterates through the array and adds
-            // User input at the end of each string
+            //// Create a loop that iterates through the array and adds
+            //// User input at the end of each string
 
-            for (int i = 0; i < weekDays.Length; i++)
-            {
-                // Ask the user to input text
-                Console.WriteLine("What is your favorite day of the week? Such as \'{0}\'", weekDays);
-                weekDays[i] = weekDays[i] + Console.ReadLine();
-            }
+            //for (int i = 0; i < weekDays.Length; i++)
+            //{
+            //    // Ask the user to input text
+            //    Console.WriteLine("What is your favorite day of the week? Such as \'{0}\'", weekDays);
+            //    weekDays[i] = weekDays[i] + Console.ReadLine();
+            //}
 
-            // Create a loop that prints each string in the [] on a separate line
-            for (int i = 0; i < weekDays.Length; i++)
-            {
-                Console.WriteLine(weekDays[i]);
-            }
-            Console.ReadLine();
+            //// Create a loop that prints each string in the [] on a separate line
+            //for (int i = 0; i < weekDays.Length; i++)
+            //{
+            //    Console.WriteLine(weekDays[i]);
+            //}
+            //Console.ReadLine();
 
-            // *PART 2*
-            // create an infinite loop
-            bool whileTrue = true;
-            while (whileTrue)
-            {
-                // a while loop without a condition to switch to the other state
-                // continues the loop
-                Console.WriteLine("True Forever!");
-                Console.ReadLine();
-                whileTrue = false;
-            }
+            //// *PART 2*
+            //// create an infinite loop
+            //bool whileTrue = true;
+            //while (whileTrue)
+            //{
+            //    // a while loop without a condition to switch to the other state
+            //    // continues the loop
+            //    Console.WriteLine("True Forever!");
+            //    Console.ReadLine();
+            //    whileTrue = false;
+            //}
 
-            // *PART 3*
-            // Create comparison loop with '<'
-            for (int j = 0; j < 3; j++)
-            {
-                // this comparison loop will print the string 3x
-                Console.WriteLine("Keep em coming");
-            }
-            Console.ReadLine();
-            // Create comparison loop with '<='
-            // increments the value of 'n' per loop until its value
-            // is <= to 4
-            int n = 0;
-            for (int k = 0; k <= 4; k++)
-            {
-                n += 1;
-                Console.WriteLine(n);
-            }
-            Console.ReadLine();
+            //// *PART 3*
+            //// Create comparison loop with '<'
+            //for (int j = 0; j < 3; j++)
+            //{
+            //    // this comparison loop will print the string 3x
+            //    Console.WriteLine("Keep em coming");
+            //}
+            //Console.ReadLine();
+            //// Create comparison loop with '<='
+            //// increments the value of 'n' per loop until its value
+            //// is <= to 4
+            //int n = 0;
+            //for (int k = 0; k <= 4; k++)
+            //{
+            //    n += 1;
+            //    Console.WriteLine(n);
+            //}
+            //Console.ReadLine();
 
             // *PART 4*
             // Create a list of strings where each item is unique
@@ -101,8 +101,8 @@ namespace ConsoleApp
 
             // *PART 5*
             // Add a list of strings with at least two identical values
-            List<string> myList2 = new List<string> { "Mike Tyson", "Larry Holmes",
-                "Jack Dempsey", "Muhammad Ali", "Jack Johnson" };
+            List<string> myList2 = new List<string> { "Muhammad Ali", "Larry Holmes",
+                "Jack Dempsey", "Mike Tyson", "Mike Tyson" };
 
             // Create prompt asking user to search of it
             Console.WriteLine("Please search for a famous Heavyweight Boxer, but first search \"Mike Tyson\".");
@@ -121,6 +121,7 @@ namespace ConsoleApp
                         {
                             proBoxers = true;
                             Console.Write(userInput + " - " + i + " ");
+                            
                         }
                     }
                 }
@@ -133,7 +134,7 @@ namespace ConsoleApp
 
             // *PART 6*
             // Create a list that contains at least one identical string with another
-            List<string> myList3 = new List<string> { "baseball", "football", "hockey", "soccer", "basketball" };
+            List<string> myList3 = new List<string> { "baseball", "football", "football", "soccer", "basketball" };
 
             // Create a list to filter duplicated out of myList3
             List<string> myFilteredList3 = new List<string> { };
