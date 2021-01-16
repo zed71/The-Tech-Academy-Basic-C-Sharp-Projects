@@ -1,0 +1,7 @@
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
