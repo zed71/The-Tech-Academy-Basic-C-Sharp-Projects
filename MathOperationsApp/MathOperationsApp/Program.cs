@@ -10,29 +10,22 @@ namespace MathOperationsApp
     {
         static void Main(string[] args)
         {
-            MathOps MO1 = new MathOps();
+            Console.WriteLine("Enter a number you would like math operations " +
+                "done on:");
+            int userInput = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(" Enter a number: ");
-            int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You may enter a second number, or skip by not entering a number ");
-            string y = Console.ReadLine();
+            MathOps obj1 = new MathOps();
 
-            bool num1 = string.IsNullOrEmpty(y);
+            obj1.Addition(userInput);
+            Console.WriteLine(obj1.Addition(userInput));
 
-            if (num1 != true)
-            {
-                int z = Convert.ToInt32(y);
+            obj1.Multiply(userInput);
+            Console.WriteLine(obj1.Multiply(userInput));
 
-                MO1.Division(x, z);
+            obj1.Divide(userInput);
+            Console.WriteLine(obj1.Divide(userInput));
 
-                Console.WriteLine(x + " * " + z + " = " + MO1.Division(x, z), MO1.Division(x, z));
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine(x + " + 1 = " + MO1.Division(x), MO1.Division(x));
-                Console.ReadLine();
-            }
+            Console.ReadLine();
         }
     }
 }
