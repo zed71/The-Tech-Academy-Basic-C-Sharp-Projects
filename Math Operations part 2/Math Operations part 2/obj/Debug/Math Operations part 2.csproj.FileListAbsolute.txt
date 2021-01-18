@@ -1,0 +1,7 @@
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\bin\Debug\Math Operations part 2.exe.config
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\bin\Debug\Math Operations part 2.exe
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\bin\Debug\Math Operations part 2.pdb
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\obj\Debug\Math Operations part 2.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\obj\Debug\Math Operations part 2.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\obj\Debug\Math Operations part 2.exe
+C:\Users\Brandon\source\repos\Math Operations part 2\Math Operations part 2\obj\Debug\Math Operations part 2.pdb
