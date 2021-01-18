@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionParameterMethod", "OptionParameterMethod\OptionParameterMethod.csproj", "{E3613FB6-B31D-469E-8BCB-AB2A36477D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3613FB6-B31D-469E-8BCB-AB2A36477D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3613FB6-B31D-469E-8BCB-AB2A36477D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3613FB6-B31D-469E-8BCB-AB2A36477D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3613FB6-B31D-469E-8BCB-AB2A36477D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E45949-97FE-4728-9CDF-7B8E91A0DD1E}
+	EndGlobalSection
+EndGlobal
