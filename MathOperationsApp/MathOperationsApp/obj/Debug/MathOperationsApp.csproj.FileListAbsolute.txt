@@ -1,0 +1,7 @@
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.exe.config
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.pdb
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.pdb
