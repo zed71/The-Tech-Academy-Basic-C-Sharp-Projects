@@ -1,0 +1,7 @@
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
