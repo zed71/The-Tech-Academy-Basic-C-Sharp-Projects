@@ -1,0 +1,6 @@
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.exe.config
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.pdb
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.exe
+C:\Users\Brandon\Desktop\Basic_C#_Programs\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.pdb
